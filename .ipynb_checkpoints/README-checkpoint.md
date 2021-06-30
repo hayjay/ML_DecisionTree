@@ -17,4 +17,4 @@ After successful installation of Jupyter notebook on your machine, follow the be
 7. When step 6 is completed, in vscode, right click the ```music-recommender.dot``` file and click on "Open preview to the side" then the result and the music prediction result gets displayed.
 
 Here is what the result the model looks like when it's given the age and gender of a user from age 30 and below and also from age 25 and below:
-![plot](/Users/nurudeenajayi/Desktop/music_decisiontree_result.png)
+![plot](./Users/nurudeenajayi/Desktop/music_decisiontree_result.png)
