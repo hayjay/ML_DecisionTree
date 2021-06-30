@@ -1,10 +1,10 @@
 # Installation and Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Install Jupyter Notebook here on [Jupyter](https://jupyter.org/install.html).
 
 ## How can this be tested ?
-First of, It is important to know and Understand the problem at hand. This ML Algorthm uses the Decision Tree in deciding the kind of music a user would like to listen to, based on his or her age and gender group.
+
+Problem Definition : First of, It is important to know and Understand the problem at hand. This ML Algorthm uses the Decision Tree in deciding the kind of music a user would like to listen to, based on his or her age and gender group.
 
 After successful installation of Jupyter notebook on your machine, follow the below steps:
 
