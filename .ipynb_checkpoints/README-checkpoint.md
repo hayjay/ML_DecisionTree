@@ -15,3 +15,6 @@ After successful installation of Jupyter notebook on your machine, follow the be
 5. When you run this the music-recommender.dot file will be created (if not already created).
 6. To See the result and performance of our model, drag and drop the ```music-recommender.dot``` file into a vscode editor window then install the dot extension in vscode so that vscode can read and interprete the content of this .dot file.
 7. When step 6 is completed, in vscode, right click the ```music-recommender.dot``` file and click on "Open preview to the side" then the result and the music prediction result gets displayed.
+
+Here is what the result the model looks like when it's given the age and gender of a user from age 30 and below and also from age 25 and below:
+![Optional Text](music_decisiontree_result.png)
